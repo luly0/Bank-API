@@ -1,0 +1,11 @@
+com\bancoportfolio\repository\TransactionRepository.class
+com\bancoportfolio\model\Transaction$TransactionType.class
+com\bancoportfolio\controller\AmountRequest.class
+com\bancoportfolio\controller\BankController.class
+com\bancoportfolio\model\Account.class
+com\bancoportfolio\BancoApiApplication.class
+com\bancoportfolio\service\BankService.class
+com\bancoportfolio\repository\AccountRepository.class
+com\bancoportfolio\model\Transaction.class
+com\bancoportfolio\controller\AccountRequest.class
+com\bancoportfolio\controller\TransferRequest.class
